@@ -1,0 +1,44 @@
+.show-lecturer {
+    padding: 20px;
+  }
+  
+  .lecturer-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .lecturer-table th,
+  .lecturer-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .lecturer-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .add-button-lecturer {
+    padding: 10px 15px;
+    border: none;
+    color: white;
+    background-color: #28a745;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .edit-button {
+    background-color: #ffc107;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
